@@ -1,6 +1,9 @@
 #https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=2162394
 #https://docs.pytest.org/en/6.2.x/parametrize.html
 #
+#run localy:
+#      pytest -v --junitxml=result.xml
+#
 # ---- how to use docker .
 #
 
