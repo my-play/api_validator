@@ -14,3 +14,6 @@
 # docker run -it --rm --name Timur-test2 test_api bash
 # ./start-test.sh -->will run test and put result.xml to report folder.
 
+
+# i saw that nationality api always return sorted value where first value "champion" so maybe ["country"][0]["country_id"] also can be usfull.
+
